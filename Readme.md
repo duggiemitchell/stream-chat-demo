@@ -14,13 +14,7 @@
 - Install dependencies
 
 ```bash
-   cd stream-chat-react-native/package
-   make expo-example-deps
-```
-- Move to the app directory
-
-```bash
-   cd ../examples/ExpoMessaging 
+   yarn
 ```
 
 - Run
